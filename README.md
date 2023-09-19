@@ -1,3 +1,6 @@
+![image](https://github.com/riguelbf/dotfiles/assets/7014252/28ca9651-a6f6-4ac6-846a-41de94e178ce)
+
+
 Riguels's "Cheat-Sheets"
 Hi, there! 👋
 
